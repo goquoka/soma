@@ -1,0 +1,21 @@
+class main {
+  public static void main(String[] args) {
+  System.out.println("escreva 3 numeros para serem somados:");
+    int a = 2;
+    int b = 8; 
+    int c = 4;
+    int soma = 2+8+4;
+   System.out.println("soma dos numeros são: %d%n , soma);
+   
+if (2 > 8 > 4 ){
+System.out.println(2);
+
+  }  
+else if (2 > 8 > 4 ){
+System.out.println(8);  
+
+  }
+ else if (2 > 8 > 4 ){                 
+System.out.println(4);
+  }
+}
